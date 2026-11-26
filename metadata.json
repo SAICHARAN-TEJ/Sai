@@ -1,0 +1,6 @@
+{
+  "name": "AXON — M Sai Charan Tej",
+  "description": "Motion-led web design & build portfolio and interactive pricing hub for M Sai Charan Tej, featuring a real-time WebGL GPU particle cloud and cursor fluid simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
